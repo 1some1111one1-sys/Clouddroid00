@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Vice Metro</string>
+    <string name="tagline">OPEN-WORLD URBAN SANDBOX</string>
+    <string name="play_free_roam">FREE ROAM</string>
+    <string name="play_continue">CONTINUE SANDBOX</string>
+    <string name="missions_title">CITY CONTRACTS</string>
+    <string name="map_title">METRO ATLAS</string>
+    <string name="armory_title">UNDERGROUND ARMORY</string>
+    <string name="controls_title">CUSTOMIZE CONTROLS</string>
+    <string name="stats_title">EXPLORATION &amp; STATS</string>
+    <string name="busted_title">BUSTED</string>
+    <string name="knocked_out_title">KNOCKED OUT</string>
+</resources>

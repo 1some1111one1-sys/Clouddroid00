@@ -1,0 +1,6 @@
+{
+  "name": "Vice Metro",
+  "description": "Offline open-world urban sandbox game with cars, planes, ships, trains, missions, dynamic NPCs, wanted system, and customizable touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
